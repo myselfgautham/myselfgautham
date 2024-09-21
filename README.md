@@ -5,7 +5,7 @@
 
 - 🔭 I’m Currently Working On **An Authentication System**
 
-- 🌱 I’m Currently Learning **Frontend Development Using React**
+- 🌱 I’m Currently Learning **SQL**
 
 - 👯 I’m Looking To Collaborate On **Cool Projects That Change The World**
 
