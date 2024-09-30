@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
+<a href="https://codepen.io/gkvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gkvc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/myselfgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myselfgautham" height="30" width="40" /></a>
 <a href="https://kaggle.com/megkvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="megkvc" height="30" width="40" /></a>
 <a href="https://instagram.com/myselfgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfgautham" height="30" width="40" /></a>
