@@ -15,7 +15,6 @@
 - 📫 How To Reach Me **gauthamkrishnav@icloud.com**
 - 📄 Know About My Experiences On [LinkedIn](https://www.linkedin.com/in/myselfgautham/)
 - 🛰️ Fun Fact **I Refrain From Using AI In My Codebase**
-- Tech Innovator 💻 | Passionate About Coding 🚀 | Creative Strategist 🎨 | Lifelong Learner 📚 | Exploring New Horizons 🌟
 
 <h3 align="left">📊 User Statistics</h3>
 
