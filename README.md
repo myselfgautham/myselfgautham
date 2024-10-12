@@ -15,12 +15,13 @@
 - 📫 How To Reach Me **gauthamkrishnav@icloud.com**
 - 📄 Know About My Experiences On [LinkedIn](https://www.linkedin.com/in/myselfgautham/)
 - 🛰️ Fun Fact **I Refrain From Using AI In My Codebase**
+- **📜 Visitors Counter** <br> ![Visitor Count](https://profile-counter.glitch.me/myselfgautham/count.svg)
 
 <h3 align="left">📊 User Statistics</h3>
 
 ![myselfgautham's Stats](https://github-readme-stats.vercel.app/api?username=myselfgautham&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
 ![myselfgautham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfgautham&theme=vue-dark&hide_border=true) <br>
-![myselfgautham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgautham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![myselfgautham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfgautham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
 
 <h3 align="left">🏡 Connect With Me</h3>
 <p align="left">
