@@ -35,3 +35,8 @@
 <h3>A few GitHub statistics</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfgautham&" alt="myselfgautham" /></p>
+
+<h3>Projects I've done over the years</h3>
+
+- **[Cascade 💳](https://github.com/myselfgautham/Cascade)** : A context based card management system for individuals and enterprises
+- **[ESP32 Camera+](https://gist.github.com/myselfgautham/46d362880dee4547c07d2950a35e8c0b)** : ESP32 Camera module with a better interface and GPIO control
