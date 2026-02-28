@@ -18,7 +18,7 @@ jobs:
       - name: Install, build, and upload website
         uses: withastro/action@v5
         with:
-          path: '/portfolio-website/'
+          path: './portfolio-website/'
           node-version: '25.6.0'
           package-manager: 'npm@latest'
           build-cmd: 'npm run build'
