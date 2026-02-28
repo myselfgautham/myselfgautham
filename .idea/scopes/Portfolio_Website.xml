@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="Portfolio Website" pattern="!file[myselfgautham]:*/||file[myselfgautham]:portfolio-website//*" />
-</component>
