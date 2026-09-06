@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gautham Krishna Vinayachandran
+# Ahoy 👋, I'm Gautham Vinayachandran
 
 ### Always Learning. Always Building. Always Curious.
 
