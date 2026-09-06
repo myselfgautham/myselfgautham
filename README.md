@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vinayachandran@aol.com**
 
-- ⚡ Fun fact **I don't commit AI written code in my repos.**
+- ⚡ Fun fact **I love breaking things and then fixing them.**
 
 - 📄 For more information **[have a look at my résumé](https://drive.google.com/file/d/11YIkhIXx220gMRZGjBJ7XIsoddWVb_o8/view?usp=sharing)**
 
